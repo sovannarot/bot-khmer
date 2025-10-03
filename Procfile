@@ -1,0 +1,1 @@
+worker: python latex_bot.py
